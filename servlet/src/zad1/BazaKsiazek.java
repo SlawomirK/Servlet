@@ -47,11 +47,11 @@ public class BazaKsiazek {
 	}
 
 	public Connection nawiazPolaczenie()  {
-		// TODO  !!!!!!!!!!!!!!!!!1hasło jawne
+		//w user i haslo do bazy wlasne dane
 		try {
 		Class.forName("com.mysql.cj.jdbc.Driver");			
 			con = DriverManager.getConnection(
-					"jdbc:mysql://db4free.net:3306/baza_do_testow?autoReconnect=true&useSSL=false", "slawek",
+					"jdbc:mysql://db4free.net:3306/baza_do_testow?autoReconnect=true&useSSL=false", "user",
 					"haslo_do_bazy");
 		} catch (SQLException | ClassNotFoundException e) {
 			// TODO Auto-generated catch block
