@@ -1,7 +1,7 @@
 
 /**
  *
- *  @author Kobyliński Sławomir S12410
+ *  @author Kobyliński Sławomir
  *
  */
 package zad1;
