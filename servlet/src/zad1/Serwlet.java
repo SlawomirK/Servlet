@@ -1,7 +1,7 @@
 
 /**
  *
- *  @author Kobyliński Sławomir S12410
+ *  @author Kobyliński Sławomir 
  *
  */
 
@@ -24,8 +24,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/*wywolanie w przegladarce http://localhost:8080/TPO4_KS_S12410/start
- * */
+
 /**
  * Servlet implementation class Serwlet
  */
